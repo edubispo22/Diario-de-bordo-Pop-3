@@ -1,0 +1,6 @@
+{
+  "appId": "com.pop100.diariodebordo",
+  "appName": "POP 100 - Diário de Bordo",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
